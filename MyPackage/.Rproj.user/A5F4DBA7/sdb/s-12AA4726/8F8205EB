@@ -1,0 +1,17 @@
+{
+    "contents" : "Package: MyPackage\nType: Package\nTitle: Test of a simple pacakge\nVersion: 0.1\nDate: 2015-10-05\nAuthor: ASQQ\nMaintainer: No one <yourfault@somewhere.net>\nDescription: More about what it does (maybe more than one line)\nLicense: No License\nLazyData: TRUE\n",
+    "created" : 1444044943646.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3005561075",
+    "id" : "8F8205EB",
+    "lastKnownWriteTime" : 1444045158,
+    "path" : "C:/Rprojects/MyPackage/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "dcf"
+}

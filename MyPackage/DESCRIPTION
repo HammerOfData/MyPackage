@@ -1,0 +1,10 @@
+Package: MyPackage
+Type: Package
+Title: Test of a simple pacakge
+Version: 0.1
+Date: 2015-10-05
+Author: ASQQ
+Maintainer: No one <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: No License
+LazyData: TRUE
